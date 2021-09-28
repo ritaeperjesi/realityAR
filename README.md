@@ -5,8 +5,9 @@ I had a very nice image in my head about a white egg dipped into red paint from 
 The execution of the eggpainting wasn't too successful, neither the AR part, but it was a good exercise.
 [![Watch the video]](https://www.youtube.com/watch?v=AKswXIWSFp8)
 And fun fact is that I'm working on an AR rainbow placed in the Hungarian Parliament as my protest against the government's discrimmination of LMBTQ people in Hungary.  
-![egg](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg) { width: 400px; }
-![egg](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg2.jpg) { width: 400px; }
+<img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg" width="400">
+![egg](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg) 
+![egg](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg2.jpg) 
 
 
 ## Pop-up book
