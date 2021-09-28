@@ -2,8 +2,11 @@
 
 ## short documentation of my projects for Reality course
 
-### Easter egg
-I had a very nice image in my head about a white egg
+### the Dystopic eggs
+I had a very nice image in my head about a white egg dipped into red paint from one side and green from the other one, representing the Hungarian flag. I also wanted to have it to lie in an augmented reality nest of disturbing Hungarian news. The communication of the Hungarian government is usually that everything is great, they are doing an amazing job, and as they are controlling the majority of media in Hungary, the opinion of the other side feels like it's just an augmented reality.
+The execution of the eggpainting wasn't too successful, neither the AR part, but it was a good exercise.
+[![Watch the video]](https://www.youtube.com/watch?v=AKswXIWSFp8)
+And fun fact is that I'm working on an AR rainbow placed in the Hungarian Parliament as my protest against the government's discrimmination of LMBTQ people in Hungary.  
 
 ### Pop-up book
 I have a book which contains one poem in 27 different languages. I really like this poem, I read it on a glass of Nutella, when I was on erasmus in Milan.
