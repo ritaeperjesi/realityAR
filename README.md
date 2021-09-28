@@ -10,7 +10,7 @@ I used Adobe Aero for the creation.
 <img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg" width="400">
 <img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg2.jpg" width="400">
 
-And fun fact is that I'm working on an AR rainbow placed in the Hungarian Parliament as my protest against the government's discrimmination of LMBTQ people in Hungary.  
+And the fun fact is that I'm working on an AR rainbow placed in the Hungarian Parliament as my protest against the government's discrimination against LMBTQ people in Hungary.  
 
 ## Pop-up book
 I have a book which contains one poem in 27 different languages. I really like this poem, I read it on a glass of Nutella, when I was on erasmus in Milan.
