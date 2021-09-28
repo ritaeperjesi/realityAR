@@ -23,6 +23,7 @@ I have a book which contains one poem in 27 different languages. I really like t
 *and suddenly it’s evening.*
 
 I'm fascinated by the picture of every human being connected to the sun with a sunbeam. Well, the half of the people on Earth.
+
 [Watch the video](https://www.youtube.com/watch?v=CzMP-IZxyg0)
 
 ![sun](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_sun.jpg)
@@ -35,6 +36,7 @@ It's an AR app, where you can connect real people with the sun, similar to this.
 ## Something Big
 We created this video with Milan Bargiel. 
 Our concept was to take photos of the same things by day and by night and use augmented reality to play with mixing up time and space.
+
 [Watch the video](https://www.youtube.com/watch?v=Krt_LjS7kDo)
 
 ![day](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_daynight3.jpg)
