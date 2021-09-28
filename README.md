@@ -11,13 +11,13 @@ And fun fact is that I'm working on an AR rainbow placed in the Hungarian Parlia
 ### Pop-up book
 I have a book which contains one poem in 27 different languages. I really like this poem, I read it on a glass of Nutella, when I was on erasmus in Milan.
 
-*Salvatore Quasimodo: And suddenly it's evening  *
+*Salvatore Quasimodo: And suddenly it's evening*
 
-*Everyone stands alone at the heart of the world *
+*Everyone stands alone at the heart of the world*
 
-*pierced by a ray of sunlight *
+*pierced by a ray of sunlight*
 
-*and suddenly it’s evening. *
+*and suddenly it’s evening.*
 
 I'm fascinated by the picture of every human being connected to the sun with a sunbeam. Well, the half of the people on Earth.
 [![Watch the video]](https://www.youtube.com/watch?v=CzMP-IZxyg0)
