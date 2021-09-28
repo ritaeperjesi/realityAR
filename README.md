@@ -3,6 +3,7 @@
 ## the Dystopic eggs
 I had a very nice image in my head about a white egg dipped into red paint from one side and green from the other one, representing the Hungarian flag. I also wanted to have it to lie in an augmented reality nest of disturbing Hungarian news. The communication of the Hungarian government is usually that everything is great, they are doing an amazing job, and as they are controlling the majority of media in Hungary, the opinion of the other side feels like it's just an augmented reality.
 The execution of the eggpainting wasn't too successful, neither the AR part, but it was a good exercise.
+I used Adobe Aero for the creation.
 
 [Watch the video](https://www.youtube.com/watch?v=AKswXIWSFp8)
 
@@ -22,7 +23,8 @@ I have a book which contains one poem in 27 different languages. I really like t
 
 *and suddenly it’s evening.*
 
-I'm fascinated by the picture of every human being connected to the sun with a sunbeam. Well, the half of the people on Earth.
+I'm fascinated by the picture of every human being connected to the sun with a sunbeam. Well, the half of the people on Earth. 
+I used Adobe Aero for the creation.
 
 [Watch the video](https://www.youtube.com/watch?v=CzMP-IZxyg0)
 
@@ -36,6 +38,7 @@ It's an AR app, where you can connect real people with the sun, similar to this.
 ## Something Big
 We created this video with Milan Bargiel. 
 Our concept was to take photos of the same things by day and by night and use augmented reality to play with mixing up time and space.
+We used Premiere Pro and Aftereffects for the creation.
 
 [Watch the video](https://www.youtube.com/watch?v=Krt_LjS7kDo)
 
