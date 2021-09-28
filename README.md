@@ -23,7 +23,7 @@ I have a book which contains one poem in 27 different languages. I really like t
 
 *and suddenly it’s evening.*
 
-I'm fascinated by the picture of every human being connected to the sun with a sunbeam. Well, the half of the people on Earth. 
+I'm fascinated by the picture of every human on Earth being connected to the sun with a sunbeam. Well, always just the half of the people. 
 I used Adobe Aero for the creation.
 
 [Watch the video](https://www.youtube.com/watch?v=CzMP-IZxyg0)
