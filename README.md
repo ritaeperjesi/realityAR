@@ -6,8 +6,7 @@ The execution of the eggpainting wasn't too successful, neither the AR part, but
 [![Watch the video]](https://www.youtube.com/watch?v=AKswXIWSFp8)
 And fun fact is that I'm working on an AR rainbow placed in the Hungarian Parliament as my protest against the government's discrimmination of LMBTQ people in Hungary.  
 <img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg" width="400">
-![egg](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg) 
-![egg](https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg2.jpg) 
+<img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg2.jpg" width="400">
 
 
 ## Pop-up book
