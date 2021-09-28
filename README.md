@@ -7,8 +7,8 @@ I used Adobe Aero for the creation.
 
 [Watch the video](https://www.youtube.com/watch?v=AKswXIWSFp8)
 
-<img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg" width="300">
-<img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg2.jpg" width="300">
+<img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg.jpg" width="400">
+<img src="https://github.com/ritaeperjesi/realityAR/blob/main/img/documentation_egg2.jpg" width="400">
 
 And the fun fact is that I'm working on an AR rainbow placed in the Hungarian Parliament as my protest against the government's discrimination against LMBTQ people in Hungary.  
 
